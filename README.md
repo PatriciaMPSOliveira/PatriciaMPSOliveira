@@ -4,6 +4,7 @@
 - 🔭 Faço estágio em Data & Analytics na Compass UOL
 - 📔 Estou no 3 semestre do curso Tecnologia em Ciência de Dados da UNINTER
 - 🌱 Atualmente estou aprendendo data & analytics focado em engenharia de dados AWS
+- 👍 Faço parte do core team do Google DCS Uninter
 - 😄 Pronomes: ela/dela
 
 
