@@ -1,10 +1,10 @@
 ## Olá! Eu sou a Patrícia Oliveira👋
 
 
-- 🔭 Faço estágio em Data & Analytics na Compass UOL
-- 📔 Estou no 3 semestre do curso Tecnologia em Ciência de Dados da UNINTER
+- 🔭 Fiz estágio durante 6 meses em Data & Analytics na Compass UOL
+- 📔 Estou no 4 semestre do curso Tecnologia em Ciência de Dados da UNINTER
 - 🌱 Atualmente estou aprendendo data & analytics focado em engenharia de dados AWS
-- 👍 Faço parte do core team do Google DCS Uninter
+- 👍 Fiz parte do core team do Google DCS Uninter
 - 😄 Pronomes: ela/dela
 
 
